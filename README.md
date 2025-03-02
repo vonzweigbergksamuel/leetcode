@@ -4,6 +4,10 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 
 <br>
 
+> **Note:** TypeScript files are run using Deno. Visit [Deno's official website](https://deno.land/) for installation instructions.
+
+<br>
+
 ## Solved Problems
 
 | #    | Title                                                                                     | Solution                                                | Type                  | Difficulty |
