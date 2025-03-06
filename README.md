@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)                                                 | [TypeScript](./src/2704.ts) | 30 Days of JavaScript | Easy       |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/)                                                                 | [TypeScript](./src/2665.ts) | 30 Days of JavaScript | Easy       |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](./src/2635.ts) | 30 Days of JavaScript | Easy       |
+| 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)                                 | [TypeScript](./src/2634.ts) | 30 Days of JavaScript | Easy       |
 
 <br>
 
