@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [TypeScript](./src/2635.ts) | 30 Days of JavaScript | Easy       |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)                                 | [TypeScript](./src/2634.ts) | 30 Days of JavaScript | Easy       |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)                               | [TypeScript](./src/2626.ts) | 30 Days of JavaScript | Easy       |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition/)                                             | [TypeScript](./src/2629.ts) | 30 Days of JavaScript | Easy       |
 
 <br>
 
