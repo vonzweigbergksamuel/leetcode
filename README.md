@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/)                                             | [TypeScript](./src/2629.ts) | 30 Days of JavaScript | Easy       |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)                   | [TypeScript](./src/2703.ts) | 30 Days of JavaScript | Easy       |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)                                       | [TypeScript](./src/2666.ts) | 30 Days of JavaScript | Easy       |
+| 2623 | [Memoize](https://leetcode.com/problems/memoize/)                                                                       | [TypeScript](./src/2623.ts) | 30 Days of JavaScript | Medium     |
 
 <br>
 
