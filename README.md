@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)                                       | [TypeScript](./src/2666.ts) | 30 Days of JavaScript | Easy       |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/)                                                                       | [TypeScript](./src/2623.ts) | 30 Days of JavaScript | Medium     |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                     | [TypeScript](./src/2723.ts) | 30 Days of JavaScript | Easy       |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep/)                                                                           | [TypeScript](./src/2621.ts) | 30 Days of JavaScript | Easy       |
 
 <br>
 
