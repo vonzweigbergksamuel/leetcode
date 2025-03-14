@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/)                                                                       | [TypeScript](./src/2623.ts) | 30 Days of JavaScript | Medium     |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/)                                                     | [TypeScript](./src/2723.ts) | 30 Days of JavaScript | Easy       |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/)                                                                           | [TypeScript](./src/2621.ts) | 30 Days of JavaScript | Easy       |
+| 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/)                                             | [TypeScript](./src/2715.ts) | 30 Days of JavaScript | Easy       |
 
 <br>
 
