@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems. I will be updating t
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/)                                                                           | [TypeScript](./src/2621.ts) | 30 Days of JavaScript | Easy       |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/)                                             | [TypeScript](./src/2715.ts) | 30 Days of JavaScript | Easy       |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)                                           | [TypeScript](./src/2725.ts) | 30 Days of JavaScript | Easy       |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)                                                 | [TypeScript](./src/2637.ts) | 30 Days of JavaScript | Medium     |
 
 <br>
 
